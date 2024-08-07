@@ -1,5 +1,5 @@
 import './App.css';
-
+// REACT_APP_NEWS_API="c5815865839342c092a99ede2ea0c240"
 import React, { useState } from 'react'
 import NavBar from './components/NavBar';
 import News from './components/News';
